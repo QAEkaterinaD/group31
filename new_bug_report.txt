@@ -1,0 +1,12 @@
+Bug_ID	4
+Summary	На главной странице сайта отстутствуют контактные данные магазина
+Severity	Major
+Priority	заполняется менеджером
+Author	Екатерина Дубовская
+Environment	"Windows 10 Корпоративная, 64-х разрядная ОС
+Google Chrome, Версия 104.0.5112.81"
+Precondition	1. Открыть сайт  http://www.dandydandy.ru/
+Steps to Reproduce	
+Actual Result	На главной странице сайта отстутствуют контактные данные магазина
+Expected Result	На главной странице сайта в правом верхнем углу хэддера, а также в футере есть ссылка на контактные данные магазина
+Attachments	https://docs.google.com/document/d/13AEGFKUhgwYifZ-AhlNX5Fphv4TrjidseR1sybsGTe0/edit
